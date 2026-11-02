@@ -87,7 +87,7 @@ If you have enabled **GitHub Pages**, you can view the live site directly online
 * **Name:** Amit Chandu Nikhade
 
 
-* **Email:** [amitnikhade440@gmail.com](https://www.google.com/search?q=mailto%3Aamitnikhade440%40gmail.com)
+* **Email:** [amitnikhade420@gmail.com](https://www.google.com/search?q=mailto%3Aamitnikhade420%40gmail.com)
 
 * **Phone:** +91 9168750183
 
